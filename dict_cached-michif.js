@@ -1,1 +1,1 @@
-var dataDict = [{"source": "data", "word": "hello", "definition": "bonjour", "sorting_form": [7, 4, 11, 11, 14], "entryID": "0"}, {"source": "data", "word": "snowing", "definition": "mishpon", "sorting_form": [18, 13, 14, 22, 8, 13, 6], "entryID": "1"}]
+var dataDict = [{"source": "data", "word": "hello", "definition": "taanshi", "sorting_form": [7, 4, 11, 11, 14], "entryID": "0"}, {"source": "data", "word": "snowing", "definition": "mishpon", "sorting_form": [18, 13, 14, 22, 8, 13, 6], "entryID": "1"}]

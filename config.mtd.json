@@ -103,12 +103,11 @@
         "manifest": {
             "file_type": "csv",
             "name": "data",
-            "sorting": "word",
             "skip_header": false,
             "transducers": [],
             "targets": {
-                "word": "0",
-                "definition": "1"
+                "word": 0,
+                "definition": 1
             }
         },
         "resource": "data.csv"

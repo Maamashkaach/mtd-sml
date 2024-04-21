@@ -46,7 +46,7 @@ jobs:
       - name: Build
         run: |
           cd mothertongues/mothertongues-UI && npx nx build search
-          npx nx build mtd-mobile-ui --base-href=/mtd-starter/ --configuration=production
+          npx nx build mtd-mobile-ui --base-href=/mtd-sml/ --configuration=production
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
